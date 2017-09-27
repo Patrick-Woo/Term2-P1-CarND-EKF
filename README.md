@@ -18,13 +18,13 @@ The project was created with the Udacity [Starter Code](https://github.com/udaci
 
 ## Result
 
-<img width="600" height="600" src="./ekf-ds1.png" alt="dataset 1 results"/>
+<img width="640" height="480" src="./ekf-ds1.png" alt="dataset 1 results"/>
 
 Accuracy - RMSE: [0.09, 0.08,  0.45,  0.43]
 
 *Threshold*: RMSE <= [0.11, 0.11, 0.52, 0.52]
 
-<img width="600" height="600" src="./ekf_ds2.png" alt="dataset 2 results"/>
+<img width="640" height="480" src="./ekf_ds2.png" alt="dataset 2 results"/>
 
 Accuracy - RMSE: [0.07, 0.09, 0.42, 0.49]
 
